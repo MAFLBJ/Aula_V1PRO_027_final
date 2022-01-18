@@ -229,7 +229,7 @@ class Estilingue {
         var options = {
             bodyA: this.corpoA,
             pointB: this.pontoB,
-            stffness: this.rigidez,
+            stiffness: this.rigidez,
             length: this.comp
         }
         
